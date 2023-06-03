@@ -1,0 +1,27 @@
+{
+  "telegram": {
+
+    "admins": [123],
+
+    "bot": {
+      "api_token": "abc"
+    },
+
+    "chat": {
+      "example": {
+        "link": "https://t.me/example",
+        "id": -1
+      }
+    },
+
+    "client_app": {
+      "id": 1,
+      "hash": "s"
+    }
+  },
+
+  "database": {
+    "root": "pump.sqlite3",
+    "__comment": "Root is relative from current init.py directory"
+  }
+}
