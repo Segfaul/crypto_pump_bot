@@ -6,8 +6,7 @@ Telegram bot app for participating in pumps conducted by third-party telegram gr
 
 ___
 ## Video [*usage example*]
-
-
+https://github.com/Segfaul/crypto_pump_bot/assets/101005929/4c1aafc8-a768-4958-a132-1469fa76af13
 ___
 
 ## *Project Status*
